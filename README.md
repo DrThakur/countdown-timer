@@ -1,3 +1,3 @@
 # countdown-timer
 count down timer
-[Live Demo](countdowntimerjavascript.netlify.app)
+[Live Demo](https://countdowntimerjavascript.netlify.app/)
